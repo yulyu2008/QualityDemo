@@ -18,7 +18,7 @@
 ##2.2使用方法
 #####FindBugs在Android studio里面有个插件 正常安卓即可(不会安装插件的自己google)
 
-![install](http://img.blog.csdn.net/20170210170252600?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQveXVseXU=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+![这里写图片描述](http://img.blog.csdn.net/20170210170252600?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQveXVseXU=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 
 
 #####安装好插件之后重启一下Android studio,在底部会有个红色的图标(不同版本可能位置不同),如果你出现了这个图标,那么恭喜你完成了第一步
